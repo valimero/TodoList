@@ -1,7 +1,12 @@
-#body
+body
 {
-	background-color: aliceblue;
+	background-color: darkorange;
 }
 .row {
 	margin-top: 10%;
+}
+
+.no_padding
+{
+		padding: 0;
 }
